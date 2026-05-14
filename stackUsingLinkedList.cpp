@@ -46,4 +46,7 @@ public:
         top = top->next;
         cout << "popped value: " << top->dat << endl;
     }
+
+    void peek()
+    
 }

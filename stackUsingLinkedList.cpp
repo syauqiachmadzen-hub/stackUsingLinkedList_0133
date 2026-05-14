@@ -20,5 +20,10 @@ class stack
 private:
     Node *top;
     
-public:    
+public:  
+    stack()
+    {
+        top = NULL;
+    }
+    int push(int value)  
 }

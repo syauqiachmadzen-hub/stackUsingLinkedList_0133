@@ -2,3 +2,7 @@
 
 using namespave std;
 
+class Node
+{
+public:    
+}

@@ -4,5 +4,9 @@ using namespave std;
 
 class Node
 {
-public:    
+public: 
+    int data;
+    Node *next;
+    
+    Node()
 }

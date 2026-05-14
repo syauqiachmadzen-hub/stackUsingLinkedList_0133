@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespave std;
+using namespace std;
 
 class Node
 {
